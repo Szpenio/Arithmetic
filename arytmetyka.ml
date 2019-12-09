@@ -1,6 +1,5 @@
 (** Project: Arithmetics of approximated values **)
 (** Author: Antoni Koszowski  **)
-(** Reviewer: Grzegorz Zaleski **)
 
 (** type representing approximated values **)
 (** [Pw] - proper interval (e.x. [1, 10]); [Pp] - opposite interval (e.x. [-inf, -5] U [10, inf]); [Pn] -  incorrect interval (containing nan) **)
